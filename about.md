@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This blog is the expression of my thoughts. I'm talking about issues I have met during my previous experiences as well as some of my diggings in certain areas of IT and coaching.
+This blog is the expression of my thoughts. I'm talking about issues I have met during my previous experiences as well as some of my diggings in certain areas of IT development and technical / agile coaching.
 
 # Who am I ?
 
@@ -19,3 +19,4 @@ During my days off I like to develop on web apps, mobile apps and different new 
 
 - Linkedin : [Nicolas Guignard](https://www.linkedin.com/in/nicolas-guignard-12559b76/)
 - Github : [nicolasguignard](https://github.com/mavericks065)
+- Twitter : [@nicolasguignard](https://twitter.com/nicolasguignard)
