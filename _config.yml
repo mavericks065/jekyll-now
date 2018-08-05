@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Nick's thoughts
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://media.licdn.com/dms/image/C4E03AQFJ2Es7gEX5zw/profile-displayphoto-shrink_200_200/0?e=1536796800&v=beta&t=_sKE-ztFP5EuhH2xUVwczy5lv60uDd6U-4HGvZHzO2I
 
 #
 # Flags below are optional

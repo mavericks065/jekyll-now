@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is the expression of my thoughts. I'm talking about issues I have met during my previous experiences as well as some of my diggings in certain areas of IT and coaching.
 
-### More Information
+# Who am I ?
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Nicolas Guignard and I am an experienced IT consultant.
 
-### Contact me
+Passionate about IT, I forged my experience from startups to multinationals. I have worked on different application architectures especially in the Java world (JEE, Web, Scala) but not only, and have a good knowledge of all the associated software components such as front-end, real-time application using Kafka, or Big data analysis using Spark.
+In addition to my interest for software development, I'm an adept of Agile and Lean practices as well as software craftsmanship practices.
 
-[email@domain.com](mailto:email@domain.com)
+During my days off I like to develop on web apps, mobile apps and different new technologies in order to keep discovering and learning new things.
+
+## More Information
+
+- Linkedin : [Nicolas Guignard](https://www.linkedin.com/in/nicolas-guignard-12559b76/)
+- Github : [nicolasguignard](https://github.com/mavericks065)
