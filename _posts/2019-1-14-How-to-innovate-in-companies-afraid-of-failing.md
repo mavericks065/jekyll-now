@@ -31,6 +31,8 @@ Then, you can try methodologies or technologies on some of these small subsets o
 
 This will allow your team to experiment, measure and learn from their advancement while not facing business’ risks and not having too much pressure on the team.
 
+![an image alt text]({{ site.baseurl }}/images/milestones.png "Risks are everywhere")
+
 ## Milestones and scope
 
 Another good practice is to add intermediary milestones. These milestones would be short term realisable goals that would help to retrospect on what is being tested. Your goal in order to innovate and experiment should be to validate your hypotheses with your users.
@@ -52,6 +54,8 @@ The team may want to reduce the scope of features judging it adds complexity wit
 
 Often, by working on a solution with a lot less risks for the business and by fixing short milestones we tend to focus on minimum marketable features. Doing so can help innovate and discover that our product might end being something completely different.
 
+![an image alt text]({{ site.baseurl }}/images/risks.png "Risks are everywhere")
+
 ## Risks are everywhere
 
 Something that must be reminded is also the normal risks of the current projects in your organisation as well as the risks of not innovating. We often forget that the current processes and methods have risks too.
@@ -62,6 +66,8 @@ On top of that if you want to empower the people in your team, it is better to e
 
 Playing down failures is helpful to make the people working together confident and reach a state where what they will produce is the best they can.
 
+![an image alt text]({{ site.baseurl }}/images/half-full-glass.png "Half glass vision")
+
 We could also imagine that while experimenting the team needs to learn and be able to measure this learning as objectively as possible. The more the team learns the more it will be efficient over time. Putting some objectives on the learning curve of your team could also help it to experiment and improve.
 
 
@@ -71,5 +77,15 @@ Innovating and make your team experiment is a task that requires a lot of trust,
 
 There are a lot of unknowns on these projects and difficulties appear from the very start of these projects with an underlying negative and paradoxical communication. This communication highlight some company culture issue that will make experimenting difficult.
 
-To get out of this way little box the best you can do is to try to focus on some very precise problem to solve and fix short term realisable milestones, which should be a first good step toward innovation.
+### Key takeaways
+
+To get out of this way little box the best you can do is:
+
+* to try to focus on some very precise problem to solve
+* fix short term realisable milestones where could be decided to stop or continue the project
+* incremental milestones
+* being able to reduce the scope in order to focus on innovation and experimentation
+* KPIs on learnings and value gained knowledge
+* play down failures
+
 
