@@ -23,7 +23,7 @@ Then, how can we get out of this way of thinking: fail fast or experiment as muc
 
 ## Focus on a small problem not at risk for the business
 
-First, a good practice is to understand what you are trying to create, what problem you are trying to solve and for who. To be able to do it you can either inspire yourself on the Lean Startup approach or run a framing with your users as well as your stakeholders and your team. Once you start understanding, try to split what you would like to produce in chunks and identify what could be the simplest version.
+First, a good practice is to understand what you are trying to create, what problem you are trying to solve and for who. To be able to do it you can either inspire yourself on the **Lean Startup** approach or run a framing with your users as well as your stakeholders and your team. Once you start understanding, try to split what you would like to produce in chunks and identify what could be the simplest version.
 
 Being very focused on fixing a specific problem can help to sweep risks.
 
@@ -35,7 +35,7 @@ This will allow your team to experiment, measure and learn from their advancemen
 
 ## Milestones and scope
 
-Another good practice is to add intermediary milestones. These milestones would be short term realisable goals that would help to retrospect on what is being tested. Your goal in order to innovate and experiment should be to validate your hypotheses with your users.
+Another good practice is to add intermediary milestones. These milestones would be **short term realisable goals** that would help to retrospect on what is being tested. Your goal in order to innovate and experiment should be to validate your hypotheses with your users.
 
 There are potential scenarios:
 
@@ -62,7 +62,7 @@ Something that must be reminded is also the normal risks of the current projects
 
 ## Highlight the journey, the learnings and the outcome instead of focusing on the output
 
-On top of that if you want to empower the people in your team, it is better to emphasise the journey instead of focusing on the result. If you learn and produce an outcome with real value but have failed on the way it is more positive than producing a result without real added value. Moreover, it is important to look at things on the bright side to keep the motivation and insist on what has been learnt as a team and for each person of the team.
+On top of that you need to **empower** the people in your team. To do it, it is better to emphasise the journey instead of focusing on the result. If you learn and produce an outcome with real value but have failed on the way it is more positive than producing a result without real added value. Moreover, it is important to look at things on the bright side to keep the motivation and insist on what has been learnt as a team and for each person of the team.
 
 Playing down failures is helpful to make the people working together confident and reach a state where what they will produce is the best they can.
 
@@ -73,15 +73,13 @@ We could also imagine that while experimenting the team needs to learn and be ab
 
 ## Conclusion
 
-Innovating and make your team experiment is a task that requires a lot of trust, energy and margin.
+Innovating and make your team experiment is a task that requires a lot of *trust*, energy and margin.
 
 There are a lot of unknowns on these projects and difficulties appear from the very start of these projects with an underlying negative and paradoxical communication. This communication highlight some company culture issue that will make experimenting difficult.
 
 ### Key takeaways
 
-To get out of this way little box the best you can do is:
-
-* to try to focus on some very precise problem to solve
+* try to focus on some very precise problem to solve
 * fix short term realisable milestones where could be decided to stop or continue the project
 * incremental milestones
 * being able to reduce the scope in order to focus on innovation and experimentation
