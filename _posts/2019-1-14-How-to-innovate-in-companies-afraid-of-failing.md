@@ -73,7 +73,7 @@ We could also imagine that while experimenting the team needs to learn and be ab
 
 ## Conclusion
 
-Innovating and make your team experiment is a task that requires a lot of *trust*, energy and margin.
+Innovating and make your team experiment is a task that requires a lot of **trust**, energy and margin.
 
 There are a lot of unknowns on these projects and difficulties appear from the very start of these projects with an underlying negative and paradoxical communication. This communication highlight some company culture issue that will make experimenting difficult.
 
