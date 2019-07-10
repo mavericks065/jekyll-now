@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to innovate in companies afraid of failing?
+title: Agile Australia, my sketchnotes
 ---
 
 Last week I went to Agile Australia Sydney. As usual this is a very inspiring event that gives some perspective and where people can really talk and exchange on methodologies and agile subjects.
