@@ -22,7 +22,6 @@ Teams that work in an agile way and deliver products that solve problems have th
 Indeed, teams that release often will hve to put in an effort on quality to release in a more automated way, without releasing bugs which will force them to have a better code and understanding of what they do.
 
 Marty also talked about that most managers don't empower their teams because they don't trust their employees or teams. What's interesting here is that trust often depends on **competence** and **character**.
-
 Best teams are often composed by engineers and people who are on a mission to make something good because they believe in it on the contrary to people who would just wait for their pay check.
 
 To have a team moving forward and being inspired product teams need leadership to reach greater accomplishments. What is the leadership doing in most cases?

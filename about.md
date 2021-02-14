@@ -8,15 +8,15 @@ This blog is the expression of my thoughts. I'm talking about issues I have met 
 
 # Who am I ?
 
-My name is Nicolas Guignard and I am an experienced IT consultant.
+My name is Nicolas Guignard and I am a Principal Engineer at OnlinePajak.
 
 Passionate about IT, I forged my experience from startups to multinationals. I have worked on different application architectures especially in the Java world (JEE, Web, Scala) but not only, and have a good knowledge of all the associated software components such as front-end, real-time application using Kafka, or Big data analysis using Spark.
-In addition to my interest for software development, I'm an adept of Agile and Lean practices as well as software craftsmanship practices.
+In addition to my interest for software development, I'm an adept of Agile and Lean practices as well as software craftsmanship practices.  
 
 During my days off I like to develop on web apps, mobile apps and different new technologies in order to keep discovering and learning new things.
 
 ## More Information
 
-- Linkedin : [Nicolas Guignard](https://www.linkedin.com/in/nicolas-guignard-12559b76/)
-- Github : [nicolasguignard](https://github.com/mavericks065)
-- Twitter : [@nicolasguignard](https://twitter.com/nicolasguignard)
+- Linkedin: In case you want to know more about my past as a consultant, or a software engineer, or if you just want to contact me: [Nicolas Guignard](https://www.linkedin.com/in/nicolas-guignard-12559b76/)
+- Github: [nicolasguignard](https://github.com/mavericks065)
+- Twitter: [@nicolasguignard](https://twitter.com/nicolasguignard)
