@@ -20,3 +20,12 @@ During my days off I like to develop on web apps, mobile apps and different new 
 - Linkedin: In case you want to know more about my past as a consultant, or a software engineer, or if you just want to contact me: [Nicolas Guignard](https://www.linkedin.com/in/nicolas-guignard-12559b76/)
 - Github: [nicolasguignard](https://github.com/mavericks065)
 - Twitter: [@nicolasguignard](https://twitter.com/nicolasguignard)
+
+## A few articles I have participated to or presentations: 
+
+- GTD: https://medium.com/@op_tech/gtd-get-things-done-9870797208ab
+- Sustainable enterprise - Wide agile reporting with Apache Spark on AWS: https://slides.com/arthurbaudry/deck/fullscreen#/
+- https://blog.octo.com/en/extreme-quotation-agile-planning-on-steroids/
+- Make the right product, the right way with the right team: Craftsmanship meetup Sydney: https://github.com/mavericks065/feedback-prez
+
+
