@@ -26,9 +26,9 @@ There is a lot of emphasis on project focus and how people should not multi task
 
 It also makes the reader think of what could be done and talks about some pitfalls that the different projects fall into. 
 In the end it brings some solutions to it by visualising who does what and be able to identify the critical chain and how to protect it. 
-It also brings on the table how to work with several projects interacting together. The book is written with dialogues that make the reader think about the topic. 
+It also brings on the table how to work with several projects interacting together. The book is written with dialogues which makes the reader think about the topic. 
 
-On top of that the author refreshes the reader on the **Theory of constraints**, that is explained in The Goal, and he uses the **Thinking Processes** in order to find and demonstrate the solutions. 
+On top of that the author refreshes the reader on the **Theory of constraints**, which is explained in The Goal, and he uses the **Thinking Processes** in order to find and demonstrate the solutions. 
 
 In my opinion if you are interested in project management there are a few visualisation techniques and concepts to take from this book.
 
