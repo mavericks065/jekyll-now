@@ -5,11 +5,11 @@ title: My January 2021 books
 
 Last month I read 
 - **Critical Chain** from Eliyahu Goldratt
-- **What would I be without you** from Guillaume Musso 
+- **What would I be without you** from Guillaume Musso which is not the topic of this article. 
 
 I really love Eliyahu Goldratt's business novels, these are not only easy to read books but they are also very rich in content. 
 
-After having read two of his previous books, The Goal and It's Not Luck, I hoped to learn a lot again.  
+After having read two of his previous books, The Goal and It's Not Luck, I hoped to learn a lot again. And I did! Below is a TL;DR and some takeaways.  
 
 ### ROTI: 4/5 
 ROTI: Return on time invested.
