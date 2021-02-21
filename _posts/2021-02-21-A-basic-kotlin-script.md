@@ -4,7 +4,8 @@ title: How we use Kotlin to script some tasks in our team.
 ---
 
 In my team we work on a lot of technologies, some we chose, some we did not mostly due to  getting existing projects in while consultants were asked to leave our company. 
-Nonetheless, we had some load testing to perform on our Open API stack. We decided that we needed to script it with one of the technologies we use. What do we currently have?  
+Nonetheless, we had some load testing to perform on our Open API stack. We decided that we needed to script it with one of the technologies we use. 
+What do we currently have on our stack?  
 - Java - Spring boot
 - Kotlin - Spring boot
 - TypeScript - NestJS
