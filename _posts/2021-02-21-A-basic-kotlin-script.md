@@ -13,7 +13,7 @@ What do we currently have on our stack?
 - VueJS - NuxtJS
 - Golang
 
-So one constraint we gave ourselves, let's not stray away from our current technologies. Because context switching is already not easy with one technology but at the moment it can be challenging.
+So one constraint we gave ourselves was to not stray away from our current technologies. Because context switching is already not easy with one technology but right now it is challenging.
 As engineers, we have preferences, on my side I must say I was keen to see how easy Kotlin would be in this context knowing that I really like this language. 
 I know very well that it could have been done in NodeJS or Golang too. And if we look around not too far: Python. Fair enough but no. 
 
@@ -60,7 +60,7 @@ To send the request:
 
 Alright but we wanted to measure the time of the http request between the start time and the response time - there are asynchronous processes in the background that would be monitored by Datadog and so for each request we would log the time of a request which makes snippet above:
 
-```Kotlin 
+```kotlin
 private fun sendRequest(httpRequest: HttpRequest): CompletableFuture<Unit> {
     val startTime = LocalDateTime.now()
     return httpClient.sendAsync(httpRequest, HttpResponse.BodyHandlers.ofString())
@@ -87,7 +87,7 @@ Alright, let's visualise the code that allows us to do that:
         .get() // Make the program to wait for the completable future to complete before exiting. 
 ```
 
-You can find an example of script my [github](https://github.com/mavericks065/NIG-Kotlin-async-script).
+You can find an example of script in my [github](https://github.com/mavericks065/NIG-Kotlin-async-script).
 
 ## Conclusion
 
