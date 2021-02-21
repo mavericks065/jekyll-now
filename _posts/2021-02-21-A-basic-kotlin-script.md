@@ -32,7 +32,7 @@ We saw that most of our needs are already in the JDK and we did not need any fan
 
 In Kotlin, we don't need to have classes since functions are first class citizens. We created our functions in a kotlin file as simply as that. 
 
-As Http client we opted for the `HttpClient` from the JDK 11. These clients usually follow the same logic whatever library you use, they are created through a builder and can be used to configure per-client state, we can set the preferred protocol version: HTTP/1.1 or HTTP/2. 
+For the Http client we opted for the `HttpClient` from the JDK 11. These clients usually follow the same logic whatever library you use, they are created through a builder and can be used to configure per-client state, we can set the preferred protocol version: HTTP/1.1 or HTTP/2. 
 This Http client is pretty convenient, the requests can be sent synchronously or asynchronously. 
 
 Instantiation of our http client:
