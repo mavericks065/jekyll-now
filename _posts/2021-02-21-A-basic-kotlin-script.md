@@ -52,6 +52,25 @@ private fun buildRequest(body: String): HttpRequest = HttpRequest.newBuilder()
     .setHeader("Content-Type", "application/json")
     .build()
 ```
+An advantage of kotlin here is the String templating which makes it very easy to build a payload in a string for instance: 
+
+```kotlin
+private fun buildInvoice(number: Int): String {
+    return """
+        {
+          "aField": $number,
+          "someField": "2021-01-01",
+          "nested": {
+            "object": {
+              "documentNumber": "123.${number.toString().padStart(8, '0')}",
+            }
+          }
+        }
+    """.trimIndent()
+}
+```
+
+We do not need to use serialisation library for such a simple example which helps to develop it quickly. 
 
 To send the request: 
  ```kotlin
@@ -71,7 +90,6 @@ private fun sendRequest(httpRequest: HttpRequest): CompletableFuture<Unit> {
         }
 }
 ```
-
 As we can see in the signature of our function it returns a CompletableFuture. Which means we can trigger functions and non-asynchronous actions depending on the completion of the requests. 
 
 These https requests are executed in a simple loop but to have the program running until the responses of the API we need to ask our program to wait for all the CompletableFutures to complete. and, to do it you need to return another completable future and wait for its completion. 
@@ -95,3 +113,5 @@ It has been a relatively low effort to make this script, a few hours, and for ou
 Just after one of us did it, a junior had a one off task to execute and even wrote his own Kotlin script after reviewing this one. 
 So I would say the learning curve for people who already know a little of Kotlin or Java is non-existing. 
 It is extremely easy to execute locally or from Rancher and very lightweight. Thus, I'd recommend people to give it a try. :) 
+
+Thanks to [Nicolas Pascal](https://www.linkedin.com/in/nicolaspascaldev/) who looked into that first and reviewed this article with [Miranda Lin](https://www.linkedin.com/in/miranda-lin-8399424a/). 
